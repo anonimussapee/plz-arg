@@ -1,0 +1,27 @@
+{
+  "name": "plz-arg",
+  "version": "1.0.0",
+  "description": "platzi argumento sobre paquetes",
+  "main": "index.js",
+  "scripts": {
+    "test": "js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anonimussapee/plz-arg.git"
+  },
+  "author": "John Cordova <librededrogas420@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anonimussapee/plz-arg/issues"
+  },
+  "homepage": "https://github.com/anonimussapee/plz-arg#readme",
+  "bin": {
+    "plz-arg": "./bin/global.js",
+    "plz-rp": "./bin/global2.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "user": "^0.0.0"
+  }
+}
