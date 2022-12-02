@@ -1,6 +1,6 @@
 {
   "name": "plz-arg",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "platzi argumento sobre paquetes",
   "main": "index.js",
   "scripts": {
